@@ -1,0 +1,297 @@
+
+<?xml version="1.0" encoding="gb2312"?><rss version="2.0">
+<channel>
+<title>百度国内焦点新闻</title>
+        <image>
+        <title>news.baidu.com</title>
+        <link>http://news.baidu.com</link>
+        <url>http://img.baidu.com/img/logo-news.gif</url>
+        </image>
+<description></description>
+<link>http://news.baidu.com</link>
+<language>zh-cn</language>
+<docs></docs>
+<generator>www.baidu.com</generator>
+<ttl>5</ttl>
+<item>
+        <title><![CDATA[天津市长黄兴国：京津第二高铁正在规划中 ]]></title>
+        <link><![CDATA[http://www.chinanews.com/gn/2015/03-09/7113366.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+																今天上午，十二届全国人大三次会议天津代表团举行开放团组会议。全国人大代表、天津市长黄兴国透露，北京到天津滨海新区的第二条高铁正在规划中。   今天上午，全国人大代表、天津市长黄兴国在回答记者关于京津冀协同发展天津如何定位问题时透露，北京南站的高铁延伸至天津滨海新区一个商务区，今年可以开通...<br />
+                        								 <a href="http://www.chinanews.com/gn/2015/03-09/7113366.shtml" target="_blank" style="font-size:13px">天津市长黄兴国：京津第二高铁正在规划中 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国新闻网</font></nobr><br>
+								                        								 <a href="http://news.xinhuanet.com/local/2015-03/09/c_127560972.htm" target="_blank" style="font-size:13px">京津第二条高铁线正在规划 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">新华网</font></nobr><br>
+								                        								 <a href="http://news.cnstock.com/news/sns_bwkx/201503/3361392.htm" target="_blank" style="font-size:13px">天津市市长：天津正规划京津第二条高铁</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国证券网</font></nobr><br>
+								                        								 <a href="http://china.cankaoxiaoxi.com/2015/0309/696348.shtml" target="_blank" style="font-size:13px">日媒：北京分散城市功能将成“试金石”</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">参考消息</font></nobr><br>
+								                        								 <a href="http://www.chinadaily.com.cn/hqcj/xfly/2015-03-09/content_13340842.html" target="_blank" style="font-size:13px">原标题：刘德旺委员建议推进京津冀文化相互融合..</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国日报网</font></nobr><br>
+								                        								 <a href="http://yanzhao.yzdsb.com.cn/system/2015/03/09/014122766.shtml" target="_blank" style="font-size:13px">闫立英代表：保定承接京津产业转移需国家政策资..</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">燕赵都市网</font></nobr><br>
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Fgn%2F2015%2F03-09%2F7113366.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">333条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[北京站和北京西站月底贯通 火车将开到地下运行 ]]></title>
+        <link><![CDATA[http://culture.gmw.cn/2015-03/09/content_15043961.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[光明网]]></source>
+        <author><![CDATA[光明网]]></author>
+        <description><![CDATA[
+																北京铁路地下直径线工程全长9.2公里，2005年底破土动工。   这条直径线从北京站出发，在崇文门大街十字路口东侧进入地下，沿前三门大街向西延伸，经西便门、天宁寺后从小马厂出地面到达北京西站。   北京站和北京西站两大铁路枢纽之间，全长9.2公里的“地下线”，本月底将实现全线隧道贯通。 ...<br />
+                        								 <a href="http://culture.gmw.cn/2015-03/09/content_15043961.htm" target="_blank" style="font-size:13px">北京站和北京西站月底贯通 火车将开到地下运行 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">光明网</font></nobr><br>
+								                        								 <a href="http://beijing.qianlong.com/3825/2015/03/09/2861@10203882.htm" target="_blank" style="font-size:13px">北京站-西站首开地下“火车摆渡” 20日开通</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">千龙</font></nobr><br>
+								                        								 <a href="http://news.xinhuanet.com/local/2015-03/09/c_127560988.htm" target="_blank" style="font-size:13px">北京站至北京西站“火车”20日启用 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">新华网</font></nobr><br>
+								                        								 <a href="http://bj.people.com.cn/n/2015/0309/c82840-24102981.html" target="_blank" style="font-size:13px">3月20日北京站至北京西站首开客车 全程15分钟</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">人民网</font></nobr><br>
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fculture.gmw.cn%2F2015-03%2F09%2Fcontent_15043961.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">32条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[市人民检察院检察长于世平：依法惩防腐败案件]]></title>
+        <link><![CDATA[http://news.enorth.com.cn/system/2015/03/09/030070430.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[北方网]]></source>
+        <author><![CDATA[北方网]]></author>
+        <description><![CDATA[
+																全国人大代表、市人民检察院检察长于世平谈今年反腐重点   依法惩防腐败案件  天津北方网讯：李克强总理在《政府工作报告》中提出，要始终保持反腐高压态势，对腐败分子零容忍、严查处。记者就本市反腐重点工作，专访全国人大代表、市人民检察院检察长于世平。于世平表示，市人民检察院认真贯彻中央和市委...<br />
+                        								 - <a href="http://news.enorth.com.cn/system/2015/03/09/030070430.shtml" target="_blank"><font color="#008000">北方网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26658247.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://news.gmw.cn/newspaper/2015-03/09/content_104980047.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://legal.people.com.cn/n/2015/0308/c188502-26657283.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://news.jcrb.com/jxsw/201503/t20150308_1484550.html" target="_blank"><font color="#008000">正义网</font></a> 
+								                        								 - <a href="http://www.legaldaily.com.cn/index_article/content/2015-03/07/content_5990895.htm?node=74673" target="_blank"><font color="#008000">法制网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.enorth.com.cn%2Fsystem%2F2015%2F03%2F09%2F030070430.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">22条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[环保部副部长：土壤一污染就“天长地久”]]></title>
+        <link><![CDATA[http://politics.people.com.cn/n/2015/0309/c70731-26658058.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[人民网]]></source>
+        <author><![CDATA[人民网]]></author>
+        <description><![CDATA[
+																“一位土壤专家在某地旅游时，发现当地的老太太都是弓着身子一拐一拐地走。这位专家隐约意识到可能是痛痛病（一种因吃不良水稻引起的骨质疏松疾病，表现为所有关节疼痛，骨质松脆——记者注），于是采集土壤检测，发现是重金属超标污染。后来我组织专家调查发现，当地几乎所有的土地都重金属污染，老百姓吃了被...<br />
+                        								 - <a href="http://news.xinhuanet.com/fortune/2015-03/09/c_127561166.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://politics.gmw.cn/2015-03/09/content_15035664.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://news.gmw.cn/2015-03/09/content_15035344.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26658058.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://news.hexun.com/2015-03-08/173848464.html" target="_blank"><font color="#008000">和讯网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0308/c70731-26657367.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fpolitics.people.com.cn%2Fn%2F2015%2F0309%2Fc70731-26658058.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">69条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[按照“四有”要求 做好人民公仆 张军 ]]></title>
+        <link><![CDATA[http://economy.gmw.cn/newspaper/2015-03/09/content_104991542.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[光明网]]></source>
+        <author><![CDATA[光明网]]></author>
+        <description><![CDATA[
+																习近平总书记1月12日同中央党校第一期县委书记研修班学员座谈交流时指出，县委书记要始终严格要求自己，做到“四有”，即心中有党、心中有民、心中有责、心中有戒，做焦裕禄式的县委书记,做人民好公仆。作为旗县委书记，一定要牢记总书记的谆谆教诲，按照“四有”要求，履行好党与人民赋予的神圣职责。  ...<br />
+                        								 - <a href="" target="_blank"><font color="#008000"></font></a> 
+								                        								 - <a href="http://internal.dbw.cn/system/2015/03/09/056378172.shtml" target="_blank"><font color="#008000">东北网</font></a> 
+								                        								 - <a href="http://internal.dbw.cn/system/2015/03/09/056378161.shtml" target="_blank"><font color="#008000">东北网</font></a> 
+								                        								 - <a href="http://society.cankaoxiaoxi.com/2015/0309/696406.shtml" target="_blank"><font color="#008000">参考消息</font></a> 
+								                        								 - <a href="http://www.nxtv.com.cn/article/tdnxnews/20150309390751.html" target="_blank"><font color="#008000">宁夏广播电视总台</font></a> 
+								                        								 - <a href="http://news.gmw.cn/newspaper/2015-03/09/content_104996889.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Feconomy.gmw.cn%2Fnewspaper%2F2015-03%2F09%2Fcontent_104991542.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">173条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[民政部：清明节严防殡葬服务场所踩踏、火灾等事故 ]]></title>
+        <link><![CDATA[http://www.chinanews.com/gn/2015/03-09/7113207.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://www.chinanews.com/gn/2015/03-09/7113207.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.chinanews.com%2Fcr%2F2015%2F0309%2F1123028724.jpg&fm=30"></a><br>
+																中新网3月9日电 据民政部网站消息，3月9日，民政部召开全国清明节工作视频会议，部署今年清明节安全祭扫服务保障工作。民政部副部长邹铭强调，强化祭扫安全管理，严密防范殡葬服务场所踩踏、火灾等安全事故的发生。   邹铭指出，今年清明祭扫安全保障依然面临严峻挑战，各级民政部门和殡葬服务单位一定...<br />
+                        								 - <a href="http://www.chinanews.com/gn/2015/03-09/7113207.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Fgn%2F2015%2F03-09%2F7113207.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">11条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[王岐山参加海南代表团审议：让利剑高悬、震慑常在]]></title>
+        <link><![CDATA[http://politics.people.com.cn/n/2015/0309/c70731-26659787.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[人民网]]></source>
+        <author><![CDATA[人民网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://politics.people.com.cn/n/2015/0309/c70731-26659787.html"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.people.com.cn%2Fh%2Fpic%2F20150309%2F32%2F2373791513033250312.jpg&fm=30"></a><br>
+																3月8日，海南代表团在人民大会堂海南厅举行全体会议，继续审议有关报告。中共中央政治局常委、中央纪委书记王岐山参加审议并作重要讲话。特派记者 王凯 摄   3月8日，中共中央政治局常委、中央纪委书记王岐山参加十二届全国人大三次会议海南代表团的审议。图为会后王岐山通过代表带来的照片了解海口红...<br />
+                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26660350.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://politics.gmw.cn/2015-03/09/content_15037005.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26659787.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://news.china.com/2015lh/news/11170076/20150309/19359197.html" target="_blank"><font color="#008000">中华网</font></a> 
+								                        								 - <a href="http://www.chinadaily.com.cn/micro-reading/china/2015-03-06/content_13332357.html" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fpolitics.people.com.cn%2Fn%2F2015%2F0309%2Fc70731-26659787.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">104条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[专家批中国收藏乱象：收藏的是文化 而不是铜臭气 ]]></title>
+        <link><![CDATA[http://www.chinanews.com/gn/2015/03-09/7113264.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+																中新社北京3月9日电 题：专家批中国收藏乱象：“收藏的是文化，而不是铜臭气”  中新社记者 王曦   2014年4月8日，随着一只明成化斗彩鸡缸杯在香港苏富比以2.8亿元港币被拍下，中国瓷器的拍卖纪录由此刷新。   实际上，这只是当前中国“收藏热”的一个缩影——就在刚刚过去的周末，北京的...<br />
+                        								 - <a href="http://www.chinanews.com/gn/2015/03-09/7113264.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Fgn%2F2015%2F03-09%2F7113264.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">5条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[时评：马云“大礼”释善意 “台独”无出路 ]]></title>
+        <link><![CDATA[http://www.chinanews.com/tw/2015/03-09/7113417.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+																上周正值元宵佳节，岛内各地纷纷举办了“闹元宵”活动，热热闹闹的平溪天灯、苗栗火旁龙、台南盐水蜂炮、台东炸寒单等，光彩夺目又“炸得红火”，让万千台湾民众沉浸在欢乐的民俗嘉年华中，乐得High翻天。   不过，最令台湾年轻人热血沸腾的还是阿里巴巴创始人马云带来的“伴手礼”。马云3日到台湾演讲...<br />
+                        								 - <a href="http://www.chinanews.com/tw/2015/03-09/7113417.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/tw/2015/03-09/7113397.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://www.huaxia.com/xw/twxw/2015/03/4304128.html" target="_blank"><font color="#008000">华夏经纬</font></a> 
+								                        								 - <a href="http://tw.cankaoxiaoxi.com/2015/0309/696500.shtml" target="_blank"><font color="#008000">参考消息</font></a> 
+								                        								 - <a href="http://tw.people.com.cn/n/2015/0309/c104510-26660917.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/tw/2015/03-08/7110910.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Ftw%2F2015%2F03-09%2F7113417.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">324条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[台湾2月份消费者物价总指数（CPI）年减0.19％]]></title>
+        <link><![CDATA[http://www.chinadaily.com.cn/hqcj/xfly/2015-03-09/content_13340794.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://www.chinadaily.com.cn/hqcj/xfly/2015-03-09/content_13340794.html"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.taiwan.cn%2Ftaiwan%2Ftw_FinancialNews%2F201503%2FW020150309363213673353.jpg&fm=30"></a><br>
+																台湾2月份消费者物价总指数（CPI）年减0.19％(网络图)   中国台湾网3月9日消息 据台湾《中时电子报》报道，台当局“行政院主计总处”今（9）天发布，2015年2月份消费者物价总指数(CPI)。数据显示，2月份CPI较上月涨0.36％，经调整季节变动因素后涨0.01％；较上年同月跌...<br />
+                        								 - <a href="http://www.huaxia.com/xw/twxw/2015/03/4304305.html" target="_blank"><font color="#008000">华夏经纬</font></a> 
+								                        								 - <a href="http://news.xinhuanet.com/tw/2015-03/09/c_1114572058.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/tw/2015/03-09/7112487.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://www.huaxia.com/xw/twxw/2015/03/4303073.html" target="_blank"><font color="#008000">华夏经纬</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinadaily.com.cn%2Fhqcj%2Fxfly%2F2015-03-09%2Fcontent_13340794.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">16条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[“福建自贸区”引境内外客商“抢跑”潮]]></title>
+        <link><![CDATA[http://www.jfdaily.com/guonei/new/201503/t20150309_1304885.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[解放网]]></source>
+        <author><![CDATA[解放网]]></author>
+        <description><![CDATA[
+																中新社福州3月9日电 (记者 罗钦文)挂牌在即的“福建自贸区”，已经成为福建开放、发展的一块金字招牌，吸引境内外客商纷纷抢先入驻。  捷足先登的平潭一零一电子商务有限公司，就将率先享受到福建自贸区建设的“红利”。该公司负责人9日透露，作为一家台资跨境电商企业，原本无法申请ICP证，而福建...<br />
+                        								 - <a href="http://www.chinanews.com/gn/2015/03-09/7113272.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://www.huaxia.com/xw/zhxw/2015/03/4302907.html" target="_blank"><font color="#008000">华夏经纬</font></a> 
+								                        								 - <a href="http://www.jfdaily.com/guonei/new/201503/t20150308_1302025.html" target="_blank"><font color="#008000">解放网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/shipin/2015/03-08/news552555.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://news.cnstock.com/event/2015lh/2015lhzb/201503/3360238.htm" target="_blank"><font color="#008000">中国证券网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0307/c70731-26654879.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.jfdaily.com%2Fguonei%2Fnew%2F201503%2Ft20150309_1304885.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">46条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[美籍华裔百岁老人长寿秘诀:练书法和与爱人相伴]]></title>
+        <link><![CDATA[http://chinese.people.com.cn/n/2015/0309/c42309-26662347.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[人民网]]></source>
+        <author><![CDATA[人民网]]></author>
+        <description><![CDATA[
+																中新网3月9日电 据美国侨报网编译报道，美籍华裔百岁老人亭超林(音译：Chao-Lin Ting)今年已103岁，他的长寿秘诀就是练习书法和与爱人相伴。   “如果你让自己投入到这种状态中，你不会抽烟、喝酒或沉溺于任何一种坏习惯当中。”亭说。   书法需要思考和专注——这一精神帮助住在皇...<br />
+                        								 - <a href="http://chinese.people.com.cn/n/2015/0309/c42309-26662347.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fchinese.people.com.cn%2Fn%2F2015%2F0309%2Fc42309-26662347.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">4条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[毛泽东专职摄影师吕厚民逝世 曾拍诸多珍贵瞬间 ]]></title>
+        <link><![CDATA[http://life.gmw.cn/2015-03/09/content_15041568.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[光明网]]></source>
+        <author><![CDATA[光明网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://life.gmw.cn/2015-03/09/content_15041568.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimglife.gmw.cn%2Fattachement%2Fjpg%2Fsite2%2F20150309%2Fc03fd543e6d41667702238.jpg&fm=30"></a><br>
+																2015年3月9日著名摄影家吕厚民2015年3月9日凌晨在京去世，享年88岁。吕厚民是毛泽东身边工作时间最长的摄影师，1950年，21岁的他被组织安排到中南海担任为领导人摄影师，14年里，为毛泽东、周恩来等国家领导人留下了很多珍贵的瞬间。   《毛泽东与周恩来》   1953年，在中南海...<br />
+                        								 - <a href="http://news.china.com/domesticgd/10000159/20150309/19361215.html" target="_blank"><font color="#008000">中华网</font></a> 
+								                        								 - <a href="http://life.gmw.cn/2015-03/09/content_15041568.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Flife.gmw.cn%2F2015-03%2F09%2Fcontent_15041568.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">15条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[港府官员：市民普遍支持自愿医保计划 ]]></title>
+        <link><![CDATA[http://www.chinanews.com/ga/2015/03-09/7113355.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+																中新网3月9日电 据香港电台报道，香港食物及卫生局局长高永文9日表示，自愿医保计划咨询推出至今，市民普遍都支持计划。   对于有市民担心计划可能令保费上升，高永文承认，保费会上升，但认为上升幅度会温和。   对于有市民关注计划下，私家医院的容量及人手是否充足，高永文说在新推出的倡导计划下...<br />
+                        								 - <a href="http://www.chinanews.com/ga/2015/03-09/7113355.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Fga%2F2015%2F03-09%2F7113355.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">4条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[武汉地铁4号线推出樱花列车 3月14日以前还可乘坐]]></title>
+        <link><![CDATA[http://news.cnhubei.com/xw/wuhan/201503/t3199593.shtml]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[荆楚网]]></source>
+        <author><![CDATA[荆楚网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://news.cnhubei.com/xw/wuhan/201503/t3199593.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fnews.cnhubei.com%2Fxw%2Fwuhan%2F201503%2FW020150309269823849918.jpg&fm=30"></a><br>
+																楚天都市报讯（记者 刘闪 魏铼 胡九思摄）自3月8日武汉地铁4号线推出“樱花主题地铁”后，引得市民大呼美爆了！在这列编号D13的地铁车厢内，满眼都是盛开的樱花，乘客如同畅游花海一样。   据悉，这趟樱花地铁的装饰将保留到本月14日。但因为只此一趟，乘坐间隔约为2小时20分钟。<br />
+                        								 - <a href="http://news.xinhuanet.com/local/2015-03/09/c_1114563865.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://news.cnhubei.com/xw/wuhan/201503/t3199593.shtml" target="_blank"><font color="#008000">荆楚网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.cnhubei.com%2Fxw%2Fwuhan%2F201503%2Ft3199593.shtml&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">37条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[肇庆市政协副主席杨永涉嫌严重违纪接受调查]]></title>
+        <link><![CDATA[http://leaders.people.com.cn/n/2015/0309/c58278-26661982.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[人民网]]></source>
+        <author><![CDATA[人民网]]></author>
+        <description><![CDATA[
+																人民网北京3月9日电 （肖玲）中央纪委监察部网站日前发布消息称，广东肇庆市政协副主席杨永因涉嫌严重违纪被调查。全文如下：   据广东省纪委消息：经广东省委批准，肇庆市政协副主席杨永，因涉嫌严重违纪问题，正在接受组织调查。   杨永简历   杨永，男，汉族，1959年9月出生，广东郁南人，...<br />
+                        								 - <a href="http://leaders.people.com.cn/n/2015/0309/c58278-26661982.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/fz/2015/03-09/7111972.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://society.people.com.cn/n/2015/0309/c136657-26657994.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://politics.caijing.com.cn/20150308/3834493.shtml" target="_blank"><font color="#008000">财经网</font></a> 
+								                        								 - <a href="http://news.xinhuanet.com/legal/2015-03/08/c_127557387.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/fz/2015/03-08/7110883.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fleaders.people.com.cn%2Fn%2F2015%2F0309%2Fc58278-26661982.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">386条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[河南代表团举行开放日联组审议 郭庚茂主持]]></title>
+        <link><![CDATA[http://leaders.people.com.cn/n/2015/0309/c58278-26659865.html]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[人民网]]></source>
+        <author><![CDATA[人民网]]></author>
+        <description><![CDATA[
+																3月8日上午，出席十二届全国人大三次会议的河南代表团举行对外开放日联组会议，审议政府工作报告，审查计划报告和预算报告。河南发展成就吸引中外媒体聚焦，来自中央电视台、华尔街日报、日本朝日新闻、香港文汇报、香港大公报等61家境内外媒体的125名记者到会听取审议，并对河南代表团代表进行采访。 ...<br />
+                        								 - <a href="http://leaders.people.com.cn/n/2015/0309/c58278-26659865.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://news.dahe.cn/2015/03-09/104483137.html" target="_blank"><font color="#008000">大河网</font></a> 
+								                        								 - <a href="http://news.dahe.cn/2015/03-09/104482930.html" target="_blank"><font color="#008000">大河网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26657456.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fleaders.people.com.cn%2Fn%2F2015%2F0309%2Fc58278-26659865.html&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">39条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[网友@两会：“习风”劲吹“朋友圈” ]]></title>
+        <link><![CDATA[http://news.xinhuanet.com/politics/2015lh/2015-03/09/c_127560240.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[新华网]]></source>
+        <author><![CDATA[新华网]]></author>
+        <description><![CDATA[
+																2014年是中国外交的丰收之年、开拓之年、创新之年。过去一年，习近平主席出访7次、足迹遍布六大洲、18个国家，47天举行300多场外交活动，点穴外交、主场外交、一带一路……习近平用一系列中国独特的方式广结、深结朋友，展现了大视野、大格局、大手笔、大气魄。网友热评“习风”劲吹“朋友圈”。 ...<br />
+                        								 - <a href="http://news.xinhuanet.com/politics/2015lh/2015-03/09/c_127560240.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.xinhuanet.com%2Fpolitics%2F2015lh%2F2015-03%2F09%2Fc_127560240.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">28条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[工商总局局长：从严查处“水货客”大量采购行为 ]]></title>
+        <link><![CDATA[http://news.xinhuanet.com/politics/2015-03/09/c_1114571700.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[新华网]]></source>
+        <author><![CDATA[新华网]]></author>
+        <description><![CDATA[
+																新华网北京３月９日电（记者陈君 吴济海）中国工商总局局长张茅９日在十二届全国人大三次会议举行的新闻发布会上说，工商总局注意到了“水货客”问题，并且按照职责分工积极采取措施解决。对于销售水货的行为，正在从严查处。   近一段时间，“水货客”利用大陆和香港两地的价格差异，逃避海关的监管。这些...<br />
+                        								 - <a href="http://news.xinhuanet.com/fortune/2015-03/09/c_127561132.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://news.xinhuanet.com/politics/2015-03/09/c_1114571700.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        								 - <a href="http://economy.caijing.com.cn/20150309/3835123.shtml" target="_blank"><font color="#008000">财经网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26661518.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://finance.china.com.cn/news/special/lianghui2015/20150309/2992024.shtml" target="_blank"><font color="#008000">中国网</font></a> 
+								                        								 - <a href="http://politics.people.com.cn/n/2015/0309/c70731-26661463.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.xinhuanet.com%2Fpolitics%2F2015-03%2F09%2Fc_1114571700.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">474条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[２月全国各类自然灾害致２３．８万人受灾 ]]></title>
+        <link><![CDATA[http://news.xinhuanet.com/local/2015-03/09/c_1114571890.htm]]></link>
+        <pubDate><![CDATA[2015-03-09T07:21:01.000Z]]></pubDate>
+        <source><![CDATA[新华网]]></source>
+        <author><![CDATA[新华网]]></author>
+        <description><![CDATA[
+																新华网北京３月９日电 民政部网站９日公布了由民政部、国家减灾办发布的２０１５年２月全国自然灾害基本情况。经核定，各类自然灾害共造成全国２３．８万人受灾，５人死亡，直接经济损失２．３亿元。灾情总体较近年同期明显偏轻。   ２月份我国自然灾害以地震灾害为主，风雹、低温冷冻和雪灾、山体崩塌和森...<br />
+                        								 - <a href="http://news.xinhuanet.com/local/2015-03/09/c_1114571890.htm" target="_blank"><font color="#008000">新华网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.xinhuanet.com%2Flocal%2F2015-03%2F09%2Fc_1114571890.htm&pn=1&clk=crel&cls=civilnews&where=focuspage&class=civilnews"><font color="#008000">20条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+</channel>
+</rss>

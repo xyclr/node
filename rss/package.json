@@ -1,0 +1,9 @@
+{
+  "name" : "rss",
+  "version" : "0.0.1",
+  "description" : "",
+  "dependencies" : {
+    "request" : "",
+    "htmlparser" : ""
+  }
+}
