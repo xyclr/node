@@ -1,0 +1,348 @@
+[Thu Apr 16 2015 15:56:16 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 15:56:17 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 15:56:18 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 15:59:27 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:00:21 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:00:43 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:00:48 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:00:49 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:00:49 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:01:27 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:12:15 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:15:17 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:17:26 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:19:29 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:22:31 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:24:16 GMT+0800 (中国标准时间)] /stylesheets/bootstrap-theme.css.map
+Error: Error setting TTL index on collection : sessions
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:161:23
+    at d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1404:28
+    at d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1542:30
+    at d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:159:22
+    at commandHandler (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:678:48)
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:12)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.toArray (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:158:10)
+    at Cursor.toArray (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:10:20)
+    at d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1541:65
+[Thu Apr 16 2015 16:26:16 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.socketOnEnd (_http_server.js:393:7)
+    at Socket.emit (events.js:129:20)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Thu Apr 16 2015 16:28:20 GMT+0800 (中国标准时间)] /upload
+Error: Request aborted
+    at IncomingMessage.onReqAborted (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:182:17)
+    at IncomingMessage.emit (events.js:129:20)
+    at abortIncoming (_http_server.js:279:11)
+    at Socket.serverSocketCloseListener (_http_server.js:292:5)
+    at Socket.emit (events.js:129:20)
+    at TCP.close (net.js:476:12)
+[Thu Apr 16 2015 16:34:33 GMT+0800 (中国标准时间)] /upload
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:335:11)
+    at ServerResponse.res.setHeader (d:\node\blog\node_modules\express\node_modules\connect\lib\patch.js:133:22)
+    at ServerResponse.res.set.res.header (d:\node\blog\node_modules\express\lib\response.js:578:10)
+    at ServerResponse.res.send (d:\node\blog\node_modules\express\lib\response.js:143:12)
+    at fn (d:\node\blog\node_modules\express\lib\response.js:824:10)
+    at View.exports.renderFile [as engine] (d:\node\blog\node_modules\ejs\lib\ejs.js:323:3)
+    at View.render (d:\node\blog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\node\blog\node_modules\express\lib\application.js:523:10)
+    at ServerResponse.res.render (d:\node\blog\node_modules\express\lib\response.js:828:7)
+    at d:\node\blog\routes\index.js:148:13
+[Thu Apr 16 2015 17:27:47 GMT+0800 (中国标准时间)] /upload
+TypeError: Cannot read property 'parse' of undefined
+    at d:\node\blog\routes\index.js:181:17
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at nextRoute (d:\node\blog\node_modules\express\lib\router\index.js:100:7)
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:167:11)
+    at checkLogin (d:\node\blog\routes\index.js:393:9)
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+[Thu Apr 16 2015 17:27:57 GMT+0800 (中国标准时间)] /upload
+TypeError: Cannot read property 'parse' of undefined
+    at d:\node\blog\routes\index.js:181:17
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at nextRoute (d:\node\blog\node_modules\express\lib\router\index.js:100:7)
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:167:11)
+    at checkLogin (d:\node\blog\routes\index.js:393:9)
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+[Thu Apr 16 2015 17:28:23 GMT+0800 (中国标准时间)] /u/goujianjun/2015-4-15/safasdf
+TypeError: Cannot read property 'name' of undefined
+    at d:\node\blog\routes\index.js:322:27
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\node\blog\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\node\blog\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+[Thu Apr 16 2015 17:28:26 GMT+0800 (中国标准时间)] /u/goujianjun/2015-4-15/safasdf
+TypeError: Cannot read property 'name' of undefined
+    at d:\node\blog\routes\index.js:322:27
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:135:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\node\blog\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\node\blog\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+[Thu Apr 16 2015 17:28:43 GMT+0800 (中国标准时间)] /post
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:335:11)
+    at ServerResponse.res.setHeader (d:\node\blog\node_modules\express\node_modules\connect\lib\patch.js:133:22)
+    at ServerResponse.res.set.res.header (d:\node\blog\node_modules\express\lib\response.js:578:10)
+    at ServerResponse.res.send (d:\node\blog\node_modules\express\lib\response.js:143:12)
+    at fn (d:\node\blog\node_modules\express\lib\response.js:824:10)
+    at View.exports.renderFile [as engine] (d:\node\blog\node_modules\ejs\lib\ejs.js:323:3)
+    at View.render (d:\node\blog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\node\blog\node_modules\express\lib\application.js:523:10)
+    at ServerResponse.res.render (d:\node\blog\node_modules\express\lib\response.js:828:7)
+    at d:\node\blog\routes\index.js:116:13
+[Thu Apr 16 2015 17:45:20 GMT+0800 (中国标准时间)] /upload
+Error: stream ended unexpectedly
+    at Form.<anonymous> (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\index.js:681:24)
+    at Form.emit (events.js:129:20)
+    at finishMaybe (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\lib\_stream_writable.js:460:14)
+    at endWritable (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\lib\_stream_writable.js:469:3)
+    at Form.Writable.end (d:\node\blog\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\lib\_stream_writable.js:436:5)
+    at onend (_stream_readable.js:505:10)
+    at process._tickCallback (node.js:355:11)
+[Mon Apr 20 2015 15:09:27 GMT+0800 (中国标准时间)] /
+Error: db object already connecting, open cannot be called multiple times
+    at Db.open (d:\node\blog\node_modules\mongodb\lib\mongodb\db.js:258:11)
+    at Function.Post.getTen (d:\node\blog\models\post.js:112:13)
+    at d:\node\blog\routes\index.js:15:14
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\node\blog\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\node\blog\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:377:7
+[Mon Apr 20 2015 15:09:32 GMT+0800 (中国标准时间)] /
+Error: db object already connecting, open cannot be called multiple times
+    at Db.open (d:\node\blog\node_modules\mongodb\lib\mongodb\db.js:258:11)
+    at Function.Post.getTen (d:\node\blog\models\post.js:112:13)
+    at d:\node\blog\routes\index.js:15:14
+    at callbacks (d:\node\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\node\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\node\blog\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\node\blog\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\node\blog\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:377:7
+[Mon Apr 20 2015 15:10:35 GMT+0800 (中国标准时间)] /
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:10:38 GMT+0800 (中国标准时间)] /reg
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:10:38 GMT+0800 (中国标准时间)] /reg
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:10:39 GMT+0800 (中国标准时间)] /reg
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:10:41 GMT+0800 (中国标准时间)] /
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:42:23 GMT+0800 (中国标准时间)] /
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)
+[Mon Apr 20 2015 15:42:24 GMT+0800 (中国标准时间)] /
+Error: no open connections
+    at Db._executeQueryCommand (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\node\blog\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\node\blog\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\express-session\index.js:348:11)
+    at next (d:\node\blog\node_modules\express\node_modules\connect\lib\proto.js:169:15)
+    at Object.cookieParser [as handle] (d:\node\blog\node_modules\express\node_modules\connect\node_modules\cookie-parser\index.js:48:5)

@@ -1,0 +1,49 @@
+<%- include header %>
+
+
+<form class="form-horizontal" method="post"> 
+  <fieldset> 
+    <legend>发表文章：</legend> 
+    <div class="control-group"> 
+      <label class="control-label" for="title">标题</label> 
+	  <div class="controls"> 
+        <input type="text" class="input-xlarge" id="title" name="title"> 
+      </div> 
+    </div>
+    <div class="control-group">
+      <label class="control-label" for="title">标签</label>
+      <div class="controls">
+        <input type="text" name="tag1" /><input type="text" name="tag2" /><input type="text" name="tag3" />
+      </div>
+    </div>
+	<div class="control-group"> 
+      <label class="control-label" for="post">正文：</label> 
+	  <div class="controls"> 
+        <textarea name="post" rows="20" cols="100"></textarea><br />
+      </div> 
+    </div> 
+    <br />
+    <div class="form-actions"> 
+      <button type="submit" class="btn btn-primary">发表</button> 
+    </div> 
+  </fieldset> 
+</form>
+<link rel="stylesheet" href="/kindeditor/themes/default/default.css" />
+<script charset="utf-8" src="/kindeditor/kindeditor-min.js"></script>
+<script charset="utf-8" src="/kindeditor/lang/zh_CN.js"></script>
+<script>
+  var editor;
+  KindEditor.ready(function(K) {
+    editor = K.create('textarea[name="post"]', {
+      resizeType : 1,
+      allowPreviewEmoticons : false,
+      allowImageUpload : false,
+      filterMode : false,
+      items : [
+        'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic', 'underline',
+        'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+        'insertunorderedlist', '|', 'emoticons', 'image', 'link']
+    });
+  });
+</script>
+<%- include footer %>

@@ -40,8 +40,7 @@ function upload(req,res){
 
     var form = new formidable.IncomingForm();
     form.parse(req,function(err,fields,files){
-        console.info(fields)
-        console.info(files)
+        console.info(fields);
         res.end('upload complete!');
     });
     form.on('progress', function(bytesReceived, bytesExpected){

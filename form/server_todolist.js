@@ -28,7 +28,7 @@ server.listen(3000,function(){
 function show(res) {
     var html = '<html><head><title>ToDoList</title></head><body><h1>To Do List</h1>' +
             '<ul>' + items.map(function(item){ return '<li>'+ item +'</li>'}).join('') +
-            '</ul><form method="post" action="/"><input type="text" name="item" /><input type="submit" value="add item" /></form>' +
+            '</ul><form method="post" action="/"><input type="text" name="item" /><p><input type="file" name="file" /></p><input type="submit" value="add item" /></form>' +
             '</body></html>';
     res.setHeader('Content-Type','text/html');
     res.setHeader('Content-Length',Buffer.byteLength(html));

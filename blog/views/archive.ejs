@@ -1,0 +1,17 @@
+<%- include header %>
+<style>
+.archive{list-style:none;line-height:28px;}
+.archive h3{margin:0.5em 0;}
+.archive time{float:left;font-size:14px;color:#999999;margin-right:1.2em;}
+</style>
+<ul class="archive">
+<% var lastYear = 0 %>
+<% posts.forEach(function (post, index) { %>
+  <% if (lastYear != post.time.year) { %>
+    <li><h3><%= post.time.year %></h3></li>
+  <% lastYear=post.time.year } %>
+  <li><time><%= post.time.day %></time></li>
+  <li><a href="/u/<%= post.name %>/<%= post.time.day %>/<%= post.title %>"><%= post.title %></a></li>
+<% }) %>
+</ul>
+<%- include footer %>

@@ -50,7 +50,6 @@ User.prototype.hashPassword = function(fn){
     });
 };
 
-/*
  var tobi = new User({
  name: 'Tobi',
  pass: 'im a ferret',
@@ -61,7 +60,6 @@ User.prototype.hashPassword = function(fn){
  if (err) throw err;
  console.log('user id %d', tobi.id);
  });
- */
 
 User.getByName = function(name, fn){
     User.getId(name, function(err, id){
